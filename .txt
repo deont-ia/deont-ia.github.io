@@ -1,2 +1,0 @@
-openai-domain-verification=dv-v1yquoJgwZopDpuEoMOJa7DS
-openai-domain-verification=dv-8Zad4xjZMov2FeXEuupS3ycu
