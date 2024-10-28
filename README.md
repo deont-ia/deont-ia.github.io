@@ -1,1 +1,1 @@
-# deontia.github.io
+# deont-ia.github.io
